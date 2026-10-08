@@ -21,8 +21,9 @@ h1,h2,h3,p{margin-top:0}
   color:#fff;
   background:
     linear-gradient(90deg,rgba(8,35,40,.73),rgba(8,35,40,.12)),
-    url("assets/hero_boat.png") center/cover;
+    url("assets/diner_tropical.png") center/cover;
 }
+
 .nav{display:flex;justify-content:space-between;align-items:center;padding:24px 0}
 .logo{font-family:"Playfair Display",serif;font-size:1.05rem}
 .nav-right{display:flex;align-items:center;gap:12px}
