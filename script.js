@@ -76,8 +76,8 @@ experienceLabel: "THE EXPERIENCE",
     deposit: "50% deposit",
     balance: "Balance on site",
     reserveWhatsApp: "Reserve on WhatsApp",
-    paymentNote: "50% deposit required at booking. Remaining balance payable on site by cash or credit card.",
-    invalidDay: "Please choose Thursday, Friday, Saturday or Sunday.",
+paymentNote: "A 50% deposit is required to confirm your reservation. Online payment by Visa, Mastercard or PayPal will be available once secure payment is activated. The remaining 50% is payable on site by cash, Visa or Mastercard.",
+invalidDay: "Please choose Thursday, Friday, Saturday or Sunday.",
     hello: "Hello! I would like to reserve the Sosúa Sunset Dinner Cruise."
   },
 
@@ -150,8 +150,8 @@ weatherNotice: "Les départs et les itinéraires peuvent être modifiés ou repo
     deposit: "Dépôt de 50 %",
     balance: "Solde sur place",
     reserveWhatsApp: "Réserver par WhatsApp",
-    paymentNote: "Dépôt de 50 % requis à la réservation. Solde payable sur place en argent comptant ou par carte de crédit.",
-    invalidDay: "Veuillez choisir un jeudi, vendredi, samedi ou dimanche.",
+   paymentNote: "Un dépôt de 50 % est requis pour confirmer votre réservation. Le paiement en ligne par Visa, Mastercard ou PayPal sera disponible après l'activation du système sécurisé. Le solde de 50 % est payable sur place en argent comptant, par Visa ou Mastercard.",
+invalidDay: "Veuillez choisir un jeudi, vendredi, samedi ou dimanche.",
     hello: "Bonjour! Je souhaite réserver le Sosúa Sunset Dinner Cruise."
   },
 
@@ -224,8 +224,8 @@ weatherNotice: "Las salidas y los itinerarios pueden modificarse o aplazarse seg
     deposit: "Depósito del 50 %",
     balance: "Saldo en el lugar",
     reserveWhatsApp: "Reservar por WhatsApp",
-    paymentNote: "Se requiere un depósito del 50 % al reservar. El saldo se paga en el lugar en efectivo o con tarjeta de crédito.",
-    invalidDay: "Elija jueves, viernes, sábado o domingo.",
+paymentNote: "Se requiere un depósito del 50 % para confirmar su reserva. El pago en línea con Visa, Mastercard o PayPal estará disponible una vez activado el sistema de pago seguro. El 50 % restante se paga en el lugar en efectivo, con Visa o Mastercard.",
+ invalidDay: "Elija jueves, viernes, sábado o domingo.",
     hello: "¡Hola! Quiero reservar el Sosúa Sunset Dinner Cruise."
   }
 };
