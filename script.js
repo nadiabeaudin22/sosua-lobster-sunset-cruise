@@ -15,7 +15,10 @@ const t = {
     schedule: "Thu–Sun · 4 PM–10 PM",
     bookCruise: "Reserve your evening",
 
-    experienceLabel: "THE EXPERIENCE",
+launchNotice: "Excursions begin December 3, 2026.",
+weatherNotice: "Departures and itineraries may be modified or postponed depending on weather and sea conditions.",
+experienceLabel: "THE EXPERIENCE",
+
     experienceTitle: "A slow evening on the water.",
     experienceText: "We leave directly from Playa Sosúa for snorkeling in the bay, then settle in for prosecco, sunset, dinner and music aboard the boat.",
     experienceText2: "The evening finishes back on the beach around a fire.",
@@ -86,6 +89,8 @@ const t = {
     perPerson: "par personne",
     schedule: "Jeu–Dim · 16 h–22 h",
     bookCruise: "Réserver votre soirée",
+launchNotice: "Début des excursions le 3 décembre 2026.",
+weatherNotice: "Les départs et les itinéraires peuvent être modifiés ou reportés selon les conditions météorologiques et maritimes.",
 
     experienceLabel: "L’EXPÉRIENCE",
     experienceTitle: "Une soirée qui prend son temps.",
@@ -158,6 +163,8 @@ const t = {
     perPerson: "por persona",
     schedule: "Jue–Dom · 4 PM–10 PM",
     bookCruise: "Reservar su noche",
+launchNotice: "Inicio de las excursiones el 3 de diciembre de 2026.",
+weatherNotice: "Las salidas y los itinerarios pueden modificarse o aplazarse según las condiciones meteorológicas y marítimas.",
 
     experienceLabel: "LA EXPERIENCIA",
     experienceTitle: "Una noche sin prisa sobre el mar.",
