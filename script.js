@@ -1,5 +1,9 @@
 const PRICE = 135;
-const WHATSAPP = "14388318664";
+const WHATSAPP = {
+  nadia: "14388318664",
+  evelin: "18293758996"
+};
+
 
 const t = {
   en: {
@@ -279,6 +283,7 @@ document
   .getElementById("bookingForm")
   .addEventListener("submit", (e) => {
     e.preventDefault();
+const contact = e.submitter?.dataset.contact === "evelin" ? "evelin" : "nadia";
 
     if (!validDay(date.value)) {
       formMessage.textContent = t[lang].invalidDay;
@@ -312,8 +317,8 @@ document
       .join("\n");
 
     window.open(
-      `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(message)}`,
-      "_blank"
+ `https://wa.me/${WHATSAPP[contact]}?text=${encodeURIComponent(message)}`,
+    "_blank"
     );
   });
 
