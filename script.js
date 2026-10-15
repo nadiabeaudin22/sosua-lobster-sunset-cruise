@@ -265,6 +265,19 @@ function updatePrice() {
 function validDay(value) {
   if (!value) return false;
 
+  const firstDate = "2026-12-03";
+
+  const today = new Date();
+  const currentDate = [
+    today.getFullYear(),
+    String(today.getMonth() + 1).padStart(2, "0"),
+    String(today.getDate()).padStart(2, "0")
+  ].join("-");
+
+  if (value < firstDate || value < currentDate) {
+    return false;
+  }
+
   const day = new Date(`${value}T12:00:00`).getDay();
 
   return [0, 4, 5, 6].includes(day);
