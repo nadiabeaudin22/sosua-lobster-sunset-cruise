@@ -120,3 +120,40 @@ footer{background:#09272c;color:#dce8e8;padding:24px 0;font-size:.86rem}
   .logo{max-width:160px}
   .footer-inner{flex-direction:column}
 }
+
+/* Correction affichage ordinateur uniquement */
+@media (min-width: 851px) {
+
+  .gallery img {
+    height: auto;
+    object-fit: contain;
+  }
+
+  .food-images img {
+    height: auto;
+    object-fit: contain;
+  }
+
+  .food-images .food-wide {
+    height: auto;
+  }
+
+  .intro h2,
+  .menu-section h2,
+  .snorkel h2,
+  .team h2,
+  .booking h2 {
+    font-size: clamp(2.5rem, 3.5vw, 3.8rem);
+    line-height: 1.1;
+  }
+
+  .intro,
+  .menu-section,
+  .snorkel,
+  .team,
+  .booking {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+}
+
