@@ -1,4 +1,4 @@
-const PRICE = 135;
+const PRICE = 125;
 const WHATSAPP = {
   nadia: "14388318664",
   evelin: "18293758996"
@@ -63,7 +63,7 @@ experienceLabel: "THE EXPERIENCE",
 
     reservationLabel: "RESERVATION",
     reservationTitle: "Reserve your evening.",
-    reservationText: "US$135 per person · Thursday to Sunday · 4 PM to 10 PM",
+    reservationText: "US$125 per person · Thursday to Sunday · 4 PM to 10 PM",
     meetingPoint: "Meeting point",
     name: "Name",
     phone: "Phone / WhatsApp",
@@ -137,7 +137,7 @@ weatherNotice: "Les départs et les itinéraires peuvent être modifiés ou repo
 
     reservationLabel: "RÉSERVATION",
     reservationTitle: "Réservez votre soirée.",
-    reservationText: "135 $ US par personne · Du jeudi au dimanche · 16 h à 22 h",
+    reservationText: "125 $ US par personne · Du jeudi au dimanche · 16 h à 22 h",
     meetingPoint: "Point de rencontre",
     name: "Nom",
     phone: "Téléphone / WhatsApp",
@@ -211,7 +211,7 @@ weatherNotice: "Las salidas y los itinerarios pueden modificarse o aplazarse seg
 
     reservationLabel: "RESERVACIÓN",
     reservationTitle: "Reserve su noche.",
-    reservationText: "US$135 por persona · Jueves a domingo · 4 PM a 10 PM",
+    reservationText: "US$125 por persona · Jueves a domingo · 4 PM a 10 PM",
     meetingPoint: "Punto de encuentro",
     name: "Nombre",
     phone: "Teléfono / WhatsApp",
